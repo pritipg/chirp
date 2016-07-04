@@ -1,3 +1,3 @@
-# mean-app
+# Chirp
 
-A small application using MEAN stack
+A small application using Angular.js
